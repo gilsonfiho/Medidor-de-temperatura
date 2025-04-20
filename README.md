@@ -2,7 +2,6 @@
 
 Este projeto utiliza um Arduino Nano para ler os valores de temperatura e umidade de um sensor DHT11 e exibi-los em um display LCD 16x2. Foram desenvolvidas duas versões do código: a primeira realiza a leitura e exibição dos dados, enquanto a segunda adiciona uma interface com botão com retenção para alternar entre diferentes modos de exibição.
 
-![Foto do projeto](caminho/para/imagem.jpg)
 
 ## 📦 Conteúdo do Repositório
 
