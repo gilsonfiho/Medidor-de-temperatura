@@ -26,7 +26,7 @@ Este projeto utiliza um Arduino Nano para ler os valores de temperatura e umidad
 | 1450-3LCD (SCL)          | A5          |
 | 1450-4Botão (comum)      | D3          |32
 
-*Nota: 1696-1Certifique-se de conectar os pinos VCC e GND de cada componente corretamente. *36
+*Nota: 1696-1Certifique-se de conectar os pinos VCC e GND de cada componente corretamente. 
 
 ## 🚀 Como Usar
 
