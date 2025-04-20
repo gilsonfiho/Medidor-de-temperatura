@@ -10,10 +10,10 @@ Este projeto utiliza um Arduino Nano para ler os valores de temperatura e umidad
 
 ## 🛠️ Componentes Utilizados
 
-- [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
-- [Sensor DHT11](https://www.adafruit.com/product/386)
-- [Display LCD 16x2 com interface I2C](https://www.adafruit.com/product/181)
-- Botão com retenção (push-button com trava)
+- [Arduino Nano]
+- [Sensor DHT11]
+- [Display LCD 16x2 com interface]
+- Botão com retenção (push-button)
 - Protoboard e jumpers
 
 ## 🔌 Esquema de Ligação
